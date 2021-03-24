@@ -10,6 +10,10 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 #### To see my live website go to {GH_PAGES_LINK_HERE}!
 
+## User Story
+
+* _As a user I want to be able to..._
+
 ## Technologies Used
 
 * _HTML_
